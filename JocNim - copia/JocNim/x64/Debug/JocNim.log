@@ -1,0 +1,3 @@
+﻿  JocNim.cpp
+F:\Cicle\Programació\UF1\JocNim - copia\JocNim\JocNim.cpp(20,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  JocNim.vcxproj -> F:\Cicle\Programació\UF1\JocNim - copia\x64\Debug\JocNim.exe
